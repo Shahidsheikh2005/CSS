@@ -1,0 +1,11 @@
+1.Content
+the content of the box where text and images appear 
+
+2.Padding
+clears and area around the content .the padding is transprarent
+
+3.Border
+a border tha goes around the padding and content.
+
+4.Margin
+clears and area outside the border.the margin is transparint.
